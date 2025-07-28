@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21888183234",
+    "project_id": "traductodam",
+    "storage_bucket": "traductodam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21888183234:android:f90bcbcf5e5dd29f9c845b",
+        "android_client_info": {
+          "package_name": "com.example.vozodam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-W718rtOztzXEujPzVIJbue1FcHc_Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21888183234:android:1b0f9d100a6dfa8a9c845b",
+        "android_client_info": {
+          "package_name": "com.odam.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt-W718rtOztzXEujPzVIJbue1FcHc_Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
